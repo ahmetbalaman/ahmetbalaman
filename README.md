@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="ahmet" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
+<img align="center" height=200 alt="ahmet" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
 - 👋 Hi, I’m Ahmet Balaman
 - 👀 I’m interested in Swift!
