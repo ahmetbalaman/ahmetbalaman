@@ -18,5 +18,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetbalaman&show_icons=true&locale=en&theme=dracula" alt="ahmet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetbalaman&&theme=dracula" alt="k-celal" /></p>
+
+<a href="https://ahmetbalaman.com" target="blank">
+  <img align="center"
+       src="https://cdn-icons-png.flaticon.com/512/841/841364.png"
+       alt="website"
+       height="30"
+       width="30" />
+</a>
 
