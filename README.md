@@ -6,6 +6,8 @@
 - 👀 I’m interested in Swift!
 - 🌱 I’m currently learning Mobile App and Dotnet
 - 📫 How to reach me ---> ahmetbalaman073@gmail.com
+- 🌐 Website ---> https://ahmetbalaman.com
+
 
 💻&nbsp;<b>Connect with me:</b>
 <p align="left">
@@ -18,12 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetbalaman&show_icons=true&locale=en&theme=dracula" alt="ahmet" /></p>
 
-
-<a href="https://ahmetbalaman.com" target="blank">
-  <img align="center"
-       src="https://cdn-icons-png.flaticon.com/512/841/841364.png"
-       alt="website"
-       height="30"
-       width="30" />
-</a>
 
