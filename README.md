@@ -12,7 +12,7 @@
 💻&nbsp;<b>Connect with me:</b>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmetbalaman/" target="blank"><img align="center" src="https://github.com/ahmetbalaman/ahmetbalaman/blob/d7890619ee78c566192c8189a3ae35c4459f69d2/assets/linkedln_logo.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://www.instagram.com/ahmet.balamann/" target="blank"><img align="center" src="https://github.com/ahmetbalaman/ahmetbalaman/blob/d7890619ee78c566192c8189a3ae35c4459f69d2/assets/instagram_logo.png" alt="insta" height="30" width="30" /></a>
+<a href="https://www.instagram.com/ahmet.balamannn/" target="blank"><img align="center" src="https://github.com/ahmetbalaman/ahmetbalaman/blob/d7890619ee78c566192c8189a3ae35c4459f69d2/assets/instagram_logo.png" alt="insta" height="30" width="30" /></a>
  ⚡&nbsp;<b style="text-align:center">GitHub Stats:</b>
 
 <br>
