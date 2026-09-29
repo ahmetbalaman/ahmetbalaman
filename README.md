@@ -1,12 +1,10 @@
 <!--
-  Ahmet Balaman — GitHub Profile
-  Inspired by ahmetbalaman.com
+  Ahmet Balaman — GitHub Profile README
+  Orange palette inspired by ahmetbalaman.com
 
-  Brand Palette
   Orange      : #F97316
   Light Orange: #FB923C
   Dark        : #0D1117
-  Light       : #FFF7ED
 -->
 
 <div align="center">
@@ -49,24 +47,26 @@
 ```swift
 struct AhmetBalaman {
     let role = "Computer Engineer"
-    
+
     let mobile = [
         "Flutter",
+        "Dart",
         "Swift",
         "SwiftUI",
         "UIKit"
     ]
-    
+
     let backend = [
         ".NET",
         "C#",
         "Blazor",
         "REST APIs"
     ]
-    
+
     let architecture = [
         "CQRS",
         "Onion Architecture",
+        "Clean Architecture",
         "Clean Code"
     ]
 
@@ -74,13 +74,13 @@ struct AhmetBalaman {
 }
 ```
 
-I’m a **Computer Engineer** focused on building useful and maintainable software.
+I’m a **Computer Engineer** focused on building useful, maintainable and user-centered software.
 
-- 📱 Developing mobile applications with **Flutter & Swift**
-- ⚙️ Building backend and web solutions with **.NET & C#**
-- 🏗️ Interested in **CQRS, Onion Architecture & Clean Code**
+- 📱 Building mobile applications with **Flutter & Swift**
+- ⚙️ Developing backend and web solutions with **.NET & C#**
+- 🏗️ Interested in **CQRS, Onion Architecture & Clean Architecture**
 - 👨‍🏫 Teaching and mentoring developers in mobile development
-- ✍️ Sharing software notes, courses and projects on **[ahmetbalaman.com](https://ahmetbalaman.com)**
+- ✍️ Sharing projects and software notes on **[ahmetbalaman.com](https://ahmetbalaman.com)**
 - 📬 Reach me at **[ahmetbalaman073@gmail.com](mailto:ahmetbalaman073@gmail.com)**
 
 ---
@@ -117,65 +117,66 @@ I’m a **Computer Engineer** focused on building useful and maintainable softwa
 
 ## 🚀 Featured Work
 
-<div align="center">
-
-<a href="https://github.com/ahmetbalaman/marvel_pedia">
-  <img
-    height="140"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbalaman&repo=marvel_pedia&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&icon_color=FB923C&border_color=F97316"
-  />
-</a>
-
-<a href="https://github.com/ahmetbalaman/Eventify_Onion_Architecture_DotNet">
-  <img
-    height="140"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbalaman&repo=Eventify_Onion_Architecture_DotNet&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&icon_color=FB923C&border_color=F97316"
-  />
-</a>
-
-<a href="https://github.com/ahmetbalaman/flutter_egitim_paketi">
-  <img
-    height="140"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbalaman&repo=flutter_egitim_paketi&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&icon_color=FB923C&border_color=F97316"
-  />
-</a>
-
-<a href="https://github.com/ahmetbalaman/MVVM_Example_Swift_UIKit">
-  <img
-    height="140"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbalaman&repo=MVVM_Example_Swift_UIKit&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&icon_color=FB923C&border_color=F97316"
-  />
-</a>
-
-</div>
+| Project | Focus |
+|---|---|
+| **[Marvel Pedia](https://github.com/ahmetbalaman/marvel_pedia)** | Mobile application project |
+| **[Eventify — Onion Architecture .NET](https://github.com/ahmetbalaman/Eventify_Onion_Architecture_DotNet)** | .NET, architecture and backend |
+| **[Flutter Eğitim Paketi](https://github.com/ahmetbalaman/flutter_egitim_paketi)** | Flutter education & examples |
+| **[MVVM Example — Swift UIKit](https://github.com/ahmetbalaman/MVVM_Example_Swift_UIKit)** | Swift, UIKit and MVVM |
+| **[Flutter Shoe App UI](https://github.com/ahmetbalaman/flutter_shoe_app_ui_design)** | Flutter UI development |
+| **[Flutter Plants UI](https://github.com/ahmetbalaman/flutter_plants_ui_app_design)** | Flutter UI development |
 
 <div align="center">
 
 <br/>
 
-<a href="https://ahmetbalaman.com">
-  <img src="https://img.shields.io/badge/VIEW_MORE_PROJECTS_→-F97316?style=for-the-badge" />
+<a href="https://github.com/ahmetbalaman?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS_→-F97316?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📱 Mobile
+
+Flutter, Dart, Swift, SwiftUI and UIKit.
+
+I enjoy building polished mobile experiences with maintainable architecture.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+
+.NET, C#, REST APIs and scalable application architecture.
+
+I care about clean boundaries, readability and maintainability.
+
+</td>
+<td width="33%" valign="top">
+
+### 👨‍🏫 Teaching
+
+I enjoy sharing what I learn through examples, educational projects and mentoring.
+
+More at **[ahmetbalaman.com](https://ahmetbalaman.com)**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 GitHub Activity
 
 <div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=ahmetbalaman&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&icon_color=FB923C&border_color=F97316"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbalaman&layout=compact&langs_count=8&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&border_color=F97316"
-/>
-
-<br/><br/>
 
 <img
   src="https://streak-stats.demolab.com?user=ahmetbalaman&background=0D1117&border=F97316&stroke=6B7280&ring=F97316&fire=FB923C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=F97316&dates=9CA3AF"
@@ -183,6 +184,8 @@ I’m a **Computer Engineer** focused on building useful and maintainable softwa
 />
 
 </div>
+
+> The project cards and language-stat images were intentionally removed from this README because the public `github-readme-stats.vercel.app` endpoint can intermittently fail and leave broken images.
 
 ---
 
